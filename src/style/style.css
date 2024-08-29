@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    }
+
+.box {
+    width: 50px;
+    height: 50px;
+    background-color: yellow
+}
+
+#texto {
+    text-align: center;
+    font-size: 50px;
+    color: green;
+}
